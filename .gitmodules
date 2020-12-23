@@ -1,0 +1,9 @@
+[submodule "selfie"]
+	path = selfie
+	url = https://github.com/raphaelouillon/selfie
+[submodule "box_models"]
+	path = box_models
+	url = https://github.com/raphaelouillon/box_models
+[submodule "drive-bys"]
+	path = drive-bys
+	url = https://github.com/raphaelouillon/drive-bys
